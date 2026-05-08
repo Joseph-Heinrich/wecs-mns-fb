@@ -75,7 +75,7 @@ The repository tracks the **TIA Portal project archive (`.zap19`)** directly. Th
 | Role                        | Name           | Organization |
 |-----------------------------|----------------|--------------|
 | Automation Engineer (Owner) | Joseph         | WECS         |
-| Safety Consultant           | Mr. Jonas S.   | NKT          |
+| Consultant                  | Mr. Jonas S.   | NKT          |
 | MNS Supplier                | —              | Cosin        |
 
 ---
