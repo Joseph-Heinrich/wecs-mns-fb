@@ -12,20 +12,19 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
-## [Unreleased]
+## [0.1.0] - 2026-05-08
 
 ### Added
 - Initial repository structure.
 - First `.zap19` archive of the development project (placeholder; replace on first commit).
 
 ### Changed
-- _Nothing yet._
-
-### Fixed
-- _Nothing yet._
+- `OM18MplcNonSafety`: MPLC non safety logic, located in _MPLC. Added start / stop logic. Not added to any program cycle yet.
+- `OM18MachineNonSafety`: Machine PLC non safety logic, located in Front Machine 1. Added start / stop logic. Not added to any program cycle yet.
+- Structural change for the local MPLC method. Attempt to fix the unclear direction in the program according to NKT feedback.
 
 ### Safety
-- _Nothing yet._
+- `ModeCheck`: MPLC safety logic, located in _MPLC. Added logic to determine which mode the machine is in. Not added to safety program yet.
 
 ---
 
