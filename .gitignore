@@ -1,0 +1,35 @@
+# ===== TIA Portal — DO NOT ignore .zap19 (it is the tracked artifact) =====
+# Live project working files (huge, machine-specific) are NOT committed.
+# Only the archived .zap19 under src/ is committed.
+
+# TIA temp / lock / autosave / per-user files
+~$*
+*.tmp
+*.bak
+*.lock
+Logs/
+TempFiles/
+UserFiles/
+System/
+AdditionalFiles/
+IM/
+XRef/
+
+# Other TIA archive formats not used in this repo (avoid accidental commits)
+*.zap1[0-8]
+*.zap2*
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Editors =====
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== Local notes =====
+/local/
+*.local.md
