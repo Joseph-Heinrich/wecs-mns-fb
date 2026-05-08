@@ -16,7 +16,7 @@ WECS_MNS_FBFC_v<Major>.<Minor>.zap19
 
 | Filename                          | Note                          |
 |-----------------------------------|-------------------------------|
-| `WECS_MNS_FB_v0.1.zap19`        | First snapshot for NKT review |
+| `MNS_FB_v0.1.zap19`               | First snapshot for NKT review |
 
 > Keep the same filename across revisions of the same version. Bump the version
 > in the filename only when delivering a reviewable milestone, so that Git
