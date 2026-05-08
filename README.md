@@ -1,4 +1,4 @@
-# WECS-MNS-FBFC
+# WECS-MNS-FB
 
 Repository for **development-stage Function Blocks (FB) and Functions (FC)** of the WECS Submarine Cable Factory Machine Network System (MNS).
 
@@ -34,7 +34,7 @@ Its primary audience is **NKT and the safety consultant (Mr. Jonas S.)**, for re
 ---
 
 ## Repository Structure
-WECS-MNS-FBFC/
+WECS-MNS-FB/
 ├── README.md          # This file
 ├── CHANGELOG.md       # Version history (Keep a Changelog format)
 ├── .gitignore         # TIA Portal temp/lock + general ignore rules
