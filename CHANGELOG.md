@@ -16,7 +16,7 @@ inside the TIA Portal project after extracting the archive.
 
 ### Added
 - Initial repository structure.
-- First `.zap19` archive of the development project (placeholder; replace on first commit).kkkkkkkkkkk
+- First `.zap19` archive of the development project (placeholder; replace on first commit).
 
 ### Changed
 - `OM18MplcNonSafety`: MPLC non safety logic, located in _MPLC. Added start / stop logic. Not added to any program cycle yet.
