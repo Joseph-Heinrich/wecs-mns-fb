@@ -14,10 +14,6 @@ inside the TIA Portal project after extracting the archive.
 
 ## [0.1.1] - 2026-05-13
 
-### Added
-- Initial repository structure.
-- First `.zap19` archive of the development project (placeholder; replace on first commit).
-
 ### Changed
 - `MplcSafetyLogic`: MPLC non safety logic, located in MPLC. Added E-STOP / Guards OK / Control ON / Activate OM / Deactivate OM / Set Pay Off Mode / Set Take Up Mode / Dancer safety limit logic. Not added to any program cycle yet.
 - `MachineSafetyLogic`: Machine PLC safety logic, located in Front Machine 1. Added E-STOP / Guards OK / Control ON / Switch modes / Dancer safety limit / Motors ON logic. Not added to any program cycle yet.
