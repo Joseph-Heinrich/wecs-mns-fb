@@ -12,6 +12,14 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
+## [0.1.2] - 2026-05-15
+
+### Changed
+- `ModeCheck`: MPLC safety logic, located in MPLC. Change the logic of checking selected machine. Not added to any program cycle yet.
+- `MachineDataTransferToOM18Group`: Machine PLC safety logic, located in MPLC. Added logic to select different machine in OM18. Not added to any program cycle yet.
+
+---
+
 ## [0.1.1] - 2026-05-13
 
 ### Changed
