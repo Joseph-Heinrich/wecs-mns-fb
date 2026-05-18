@@ -12,6 +12,16 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
+## [0.1.3] - 2026-05-18
+
+### Changed
+- `OM18MplcSafety`: MPLC safety logic, located in MPLC. Integrate all the previous safety FBs. Added in `Main_Safety_RTG1`.
+- `OM18MplcNonSafety`: MPLC non-safety logic, located in MPLC. Integrate all the previous non-safety FBs. Added in `Main`.
+- `OMMachineSafety`: Machine PLC safety logic, located in machine PLCs. Integrate all the previous safety FBs. Added in `Main_Safety_RTG1`.
+- `OMMachineNonSafety`: Machine PLC non-safety logic, located in machine PLCs. Integrate all the previous non-safety FBs. Added in `Main`.
+
+---
+
 ## [0.1.2] - 2026-05-15
 
 ### Changed
