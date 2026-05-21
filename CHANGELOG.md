@@ -12,6 +12,17 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
+## [0.1.4] - 2026-05-21
+
+### Changed
+- `OM18MplcSafety`: Modified and tested to fit the requirements.
+- `MplcSafetyLogic`: Modified and tested to fit the requirements.
+- `MachineSafetyLogic`: Modified and tested to fit the requirements.
+- `MplcNonSafetyLogic`: Modified and tested to fit the requirements.
+- `MachineNonSafetyLogic`: Modified and tested to fit the requirements.
+
+---
+
 ## [0.1.3] - 2026-05-18
 
 ### Changed
