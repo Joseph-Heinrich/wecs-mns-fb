@@ -12,6 +12,14 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
+## [0.1.5] - 2026-05-24
+
+### Changed
+- `OM18MplcSafety`: ACK_OP added.
+- `OMMachineSafety`: ACK_OP added.
+
+---
+
 ## [0.1.4] - 2026-05-21
 
 ### Changed
