@@ -12,6 +12,13 @@ inside the TIA Portal project after extracting the archive.
 
 ---
 
+## [0.1.6] - 2026-05-27
+
+### Changed
+- `HmiDB`: Incorrect spelling fixed.
+
+---
+
 ## [0.1.5] - 2026-05-24
 
 ### Changed
